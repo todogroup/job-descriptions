@@ -2,6 +2,7 @@
 
 A listing of open source program/office job descriptions from the industry:
 
+* [Capital One, Open Source Governance and Functional Support](https://github.com/todogroup/job-descriptions/blob/master/capital-one-open-source-governance-and-functional-support.md)
 * [Box, Open Source Lead](https://github.com/todogroup/job-descriptions/blob/master/box-opensource-lead.md)
 * [Huawei, Director of Open Source](https://github.com/todogroup/job-descriptions/blob/master/huawei-director-opensource-operations.md)
 * [Indeed, Open Source Lead](https://github.com/todogroup/job-descriptions/blob/master/indeed-opensource-lead.md)
