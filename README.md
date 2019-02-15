@@ -12,3 +12,4 @@ A listing of open source program/office job descriptions from the industry:
 * [Microsoft, Senior Developer in Open Source Programs Office](https://github.com/todogroup/job-descriptions/blob/master/microsoft-ospo-dev.md)
 * [Twitter, Open Source Program Manager](https://github.com/todogroup/job-descriptions/blob/master/twitter-open-source-program-manager.md)
 * [Yahoo, Manager/Director of Open Source Programs, posted in 2010 ](https://github.com/todogroup/job-descriptions/blob/master/yahoo-ospo-job-description-2010.md)
+* [Twitter, Open Source Technical Lead](https://github.com/todogroup/job-descriptions/blob/master/twitter-open-source-tech-lead.md)
