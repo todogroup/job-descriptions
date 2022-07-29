@@ -1,4 +1,4 @@
-# Director Open Source Program Office (RedHat)
+# Director Open Source Program Office (Red Hat)
 
 ## About the job
 
