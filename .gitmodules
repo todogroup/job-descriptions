@@ -1,0 +1,3 @@
+[submodule "scs-open-source-community-manager"]
+	path = scs-open-source-community-manager
+	url = git@github.com:itrich/jd-commgr.git
